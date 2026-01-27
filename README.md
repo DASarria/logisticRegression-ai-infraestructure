@@ -1,1 +1,1 @@
-# logisticRegression-ai-infraestructure fg
+# logisticRegression-ai-infraestructure
